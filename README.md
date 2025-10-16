@@ -79,12 +79,3 @@ Replace `my-shared-lib` with the name configured in Jenkins.
 
 This project does not include a license file by default. Add `LICENSE` if you want to declare one (MIT/Apache/etc.).
 
----
-
-If you'd like, I can:
-
-- Create the recommended directories (`src/`, `test/`, `examples/`, `docs/`) and add starter files.
-- Add a sample unit test wiring using JenkinsPipelineUnit.
-
-Tell me which follow-up you'd like next.
-
